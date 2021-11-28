@@ -1,15 +1,16 @@
 # HW_04: NotaCS40Bot
 
 ## A. Purrpose
-From our very first assignment in this class, I've stuck to a cat theme in my CS40 work. Since Prof. Izbicki said it was only a suggestion to make our bot politically focused, I decided to make my bot cat themed instead! You'll see just how purrfect the comments are. 😽
+From our very first assignment in this class, I've stuck to a cat theme in my CS40 work. Since Prof. Izbicki said it was only a suggestion to make our bot politically focused, I decided to make my bot cat themed instead! You'll see just how purrfect the bot work is. 😽
 
 ## B. Favorite Comment
 My favorite threads for my bot to comment on were those about cats. NotaCS40bot responded to many cat related posts that were shared in various subreddits. A screenshot of a funny reply is attached below. 
-![Favorite thread](Screen Shot 2021-11-28 at 1.53.45 PM.png)
-https://www.reddit.com/r/redditdev/comments/7l9xju/how_to_post_new_threads_with_praw/
+<img width='70%' src=Screenshot_bot.png />
 
+
+My bot's comments on this [this thread](https://www.reddit.com/r/redditdev/comments/7l9xju/how_to_post_new_threads_with_praw/) seemed pretty hilarious, so I'm sharing it as my favorite. \
+[Replying to a political post about Obama with a silly sentence about kittens](https://old.reddit.com/r/BotTownFriends/comments/r3kpmk/i_love_the_way_her_little_ears_move_in_rhythm/hmc9ob0/) is the comment that makes me smile most.
  
-(Below each comment is a button labeled permalink that lets you link to a comment.)
 
 
 ## C. Bot Counter
