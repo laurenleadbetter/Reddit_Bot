@@ -7,8 +7,8 @@ From our very first assignment in this class, I've stuck to a cat theme in my CS
 My favorite threads for my bot to comment on were those about cats. NotaCS40bot responded to many cat related posts that were shared in various subreddits. A screenshot of a funny reply is attached below. 
 ![Favorite thread](Screen Shot 2021-11-28 at 1.53.45 PM.png)
 https://www.reddit.com/r/redditdev/comments/7l9xju/how_to_post_new_threads_with_praw/
-an image screenshot of the thread, 
-and a short description of what you like about it. 
+
+ 
 (Below each comment is a button labeled permalink that lets you link to a comment.)
 
 
