@@ -1,4 +1,4 @@
-# HW_04: NotaCS40Bot
+# HW_04: ``` NotaCS40Bot``` 
 
 ## A. Purrpose
 From our very first assignment in this class, I've stuck to a cat theme in my CS40 work. Since Prof. Izbicki said it was only a suggestion to make our bot politically focused, I decided to make my bot cat themed instead! You'll see just how purrfect the bot work is. 😽
@@ -6,7 +6,7 @@ From our very first assignment in this class, I've stuck to a cat theme in my CS
 #### Files Included
 ```bot.py``` Main file for NotaCS40bot, that will start leaving comments and replies as specified. \
 ```new_submission.py``` This file will make new submissions to a subreddit, manually alternating between making posts with text from generate_comment function and sharing posts from other threads.\
-```vote_bot.py``` 
+```vote_bot.py``` Vote bot will support postive comments about 'kittens' and downvote negative comments about cats. 
 
 ## B. Favorite Comment
 My favorite threads for my bot to comment on were those about cats. NotaCS40bot responded to many cat related posts that were shared in various subreddits. A screenshot of a funny reply is attached below. 
