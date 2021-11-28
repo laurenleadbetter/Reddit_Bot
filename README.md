@@ -4,7 +4,9 @@
 From our very first assignment in this class, I've stuck to a cat theme in my CS40 work. Since Prof. Izbicki said it was only a suggestion to make our bot politically focused, I decided to make my bot cat themed instead! You'll see just how purrfect the comments are. 😽
 
 ## B. Favorite Comment
-Provides a link to your favorite thread involving your bot, 
+My favorite threads for my bot to comment on were those about cats. NotaCS40bot responded to many cat related posts that were shared in various subreddits. A screenshot of a funny reply is attached below. 
+![Favorite thread](Screen Shot 2021-11-28 at 1.53.45 PM.png)
+https://www.reddit.com/r/redditdev/comments/7l9xju/how_to_post_new_threads_with_praw/
 an image screenshot of the thread, 
 and a short description of what you like about it. 
 (Below each comment is a button labeled permalink that lets you link to a comment.)
@@ -12,9 +14,17 @@ and a short description of what you like about it.
 
 ## C. Bot Counter
 
-Includes the output of running the bot_counter.py file on your bot to count how many comments you've created. The output of this command must be inside of a markdown code block (i.e. use the triple backticks notation).
-
-
+```
+len(comments)= 742
+len(top_level_comments)= 286
+len(replies)= 456
+len(valid_top_level_comments)= 286
+len(not_self_replies)= 452
+len(valid_replies)= 452
+========================================
+valid_comments= 738
+========================================
+```
 
 ## D. Score
 
